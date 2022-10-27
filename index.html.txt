@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My portfolio</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" type="text/css" href="./assets/css/reset.css">
+  <link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
+</head>
+
+<body>
+    <header>
+        <h1>My portfolio</h1>
+        <img src="face.jpg">
+        <p>Wagner David Jimenez-Mena</p>
+        <p>
+            Let the sky be the limit
+        </p>
+        <nav>
+            <a href="#">Contact me</a>
+            <a href="#">Submit portfolio</a>
+            <a href="#">My values</a>
+        </nav>
+    </header>
+    
+    <main>
+        <div class="Information">
+            <section class="links">
+                <header>Education</header>
+                <img src="giphy-downsized-large.gif" alt="education"/>
+            </section>
+            <section class="links">
+                <header>Hobbies</header>
+                <img src="giphygtr.gif"/>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <h3>
+            Thank you for viewing. Hope to come together and grow.
+        </h3>
+    </footer>
+</body>
+
+</html>
