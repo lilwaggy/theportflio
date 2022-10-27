@@ -32,7 +32,7 @@
             </section>
             <section class="links">
                 <header>Hobbies</header>
-                <img src="giphygtr.gif"/>
+                <img src="giphygtr.gif" alt="Hobbies"/>
             </section>
         </div>
     </main>
